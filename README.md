@@ -10,7 +10,9 @@
     <img align='center' widith='20pt' src='https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor'>  
     <img align='center' src='https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor'>
     <img align='center' src='https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor'>
+    <img align='center' src='https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor'>
     <img align='center' src='https://icongr.am/devicon/python-original.svg?size=50&color=currentColor'>
+    <img align='center' src='https://icongr.am/devicon/php-original.svg?size=50&color=currentColor'>
     <img align='center' src='https://icongr.am/devicon/java-original.svg?size=50&color=currentColor'>
 </div>
 
